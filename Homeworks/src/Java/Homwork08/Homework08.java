@@ -16,7 +16,6 @@ public class Homework08 {
         tenIntegers();
         citiesArrayList();
     }
-
      /*
         Create a shopping list with Array and print the values
     */
